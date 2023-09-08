@@ -1,0 +1,52 @@
+.footer-section {
+  background: #0b0b0b;
+  height: 20rem;
+}
+
+.footer-main-div {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.Name-div {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.page-ul-div {
+  justify-content: space-between;
+  margin-top: 1.5rem;
+}
+
+li {
+  display: inline-block;
+  margin-right: 2rem;
+}
+a {
+  scroll-behavior: smooth;
+  color: white;
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+a:hover {
+  color: yellow;
+}
+
+img {
+  width: 2rem;
+  object-fit: cover;
+  height: 2rem;
+}
+
+.social-icon-div {
+  max-height: 6rem;
+  margin-top: 2.5rem;
+}
+
+.instagram,
+.linkedin,
+.github {
+  margin-right: auto;
+}
